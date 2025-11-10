@@ -1,9 +1,5 @@
 # IOS-ESP-AutoUpdate
 IOS ESP Unity AutoUpdate
-
-
-
-
 # ESPConfig.h - ESP Configuration for Different Games
 
 This file contains the most important settings to adapt ESP (Extra Sensory Perception) to your game.
@@ -39,5 +35,3 @@ This file contains the most important settings to adapt ESP (Extra Sensory Perce
 2. **Check assembly name** - must be exact
 3. **Test** - if ESP works
 ---
-
-**Note:** For educational purposes. Use responsibly.
